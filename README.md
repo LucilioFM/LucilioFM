@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LucilioFM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Psychology, Tecnology, Phylosophy, Astronomy ...
+- 💞️ I’m looking to collaborate on projects that can bring great impacts to humanity.
 - 📫 How to reach me: lucilio1054@gmail.com
 
 <!---
